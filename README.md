@@ -1,2 +1,2 @@
-# odoo17_frame101_tutorial
+# odoo17_frame101
 Server framework 101
